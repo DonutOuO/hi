@@ -1,2 +1,3 @@
-Temp=input('請輸入溫度:')
-print((int(Temp)*9/5)+32)
+C=input('請輸入攝氏溫度:')
+F=(int(C) * 9 / 5 + 32)
+print(F)
